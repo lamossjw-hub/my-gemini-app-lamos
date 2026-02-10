@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Multi-Ref Studio",
+  "description": "AI image generation with original subject and multiple style references.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
